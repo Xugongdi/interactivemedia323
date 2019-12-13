@@ -42,14 +42,10 @@ p {
 	width: 250px;
 }
 
-  div{
+ div #image{
   float:right;
-  width:100px
-  height:100px
+  width:400px
+  height:500px
 }
 
-#image{
-	height: 400px;
-	width: 500px;
-}
 
