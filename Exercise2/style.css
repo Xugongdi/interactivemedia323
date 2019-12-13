@@ -44,8 +44,10 @@ p {
 
  div #image{
   float:right;
-  width:240px
-  height:320px
 }
 
 
+#image{
+	height: 280px;
+	width: 350px;
+}
