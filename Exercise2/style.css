@@ -13,8 +13,6 @@ h1 {
 
 
 h2 {
-
-  
   font-weight: bold;
   font-size: 32px;
   line-height: 24px;
@@ -23,11 +21,11 @@ h2 {
   width: 70%;
 }
 
-.photo{
-    float:left;
-    width:30%;
+p {
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-size: 22px;
+  font-weight: normal;
 }
-.intro{
-    float:right;
-    width:70%;
-}
+
