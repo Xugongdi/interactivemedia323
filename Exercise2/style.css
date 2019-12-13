@@ -37,3 +37,9 @@ p {
 	height: 200px;
 	width: 250px;
 }
+
+  div{
+  float:right;
+  width:100px
+  height:100px
+}
